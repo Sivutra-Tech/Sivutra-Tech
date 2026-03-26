@@ -10,7 +10,7 @@ I want to work with cloud computer, but I will start with web development and ma
 I also want to work with hardware component, and I will start with Arduino then I will build various cool projects.
 
 In this profiles, I will be uploading large projects, medium projects, small projects, experiments and thing that I am working on. All the project are built from stratch and it will not be from a copy and paste template.
-# Languages, Framework and Tools
+<h3> Languages, Framework and Tools </h3>
 <h5>Web Development</h5>
 <ul>
   <li>HTML (Finished)</li>
